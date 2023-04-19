@@ -115,7 +115,7 @@ If you take a closer look at the data layer with the server, the storage engine,
 
 
 
-
+<br><br>
 
 ## Section 2 : Understanding the Basics & CRUD Operations
 
@@ -538,7 +538,7 @@ db.flightData.find({"status.details.responsible": "Max Schwarzmueller"}).pretty(
 
 - Projection can be used to restrict the amount of fields per document
 
-
+<br><br>
 
 ## Section 3: Schemas & Relations
 
